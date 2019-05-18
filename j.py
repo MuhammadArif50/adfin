@@ -5,7 +5,6 @@ import os
 import time
 import sys
 
-os.system('/data/data/com.termux/files/home/adfin')
 os.system('./b.sh')
 os.system('clear')
 print('''
